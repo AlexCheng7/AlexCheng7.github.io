@@ -17,3 +17,10 @@ TODO
 
 4. About page
     
+5. Projects to do
+    a. Minesweeper
+    b. Grade Calculator w/ GUI (can be webpage)
+        i. Want to support using decimals/fractions such as (99/100)
+        ii. Support extra credit
+    c. Weather App
+    d. Finishing website
